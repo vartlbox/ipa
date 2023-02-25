@@ -1,0 +1,47 @@
+
+@font-face {
+    font-family:'rudawregular2';
+    src:url('rudawregular2.ttf');
+    }
+
+
+footer{
+
+height: 37px;
+margin-top: 500px;
+border-radius: 4px;
+background-color: rgba(108, 59, 224, 0.979);
+text-align: center;
+}
+
+a{
+text-align: center;
+margin: 33px;
+text-decoration:none ;
+font-size: 27px;
+color: #1d1b1b;
+font-family: rudawregular2 ;
+
+}
+
+body{
+
+    background-color: #1d1b1b;
+
+}
+h1{
+
+color:rgba(108, 59, 224, 0.979);
+font-family: rudawregular2 ;
+
+}
+
+.in{
+font-size: 23px;
+text-align: center;
+margin-top: 10px;
+background-color: #1d1b1b;
+border-color: rgba(108, 59, 224, 0.979);
+color:rgba(108, 59, 224, 0.979);
+
+}
